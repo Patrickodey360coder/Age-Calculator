@@ -5,7 +5,7 @@ def TEST(Birth_year):
     return new_age
 
 
-Birth_year = input("please enter Year of Birth: ")
+Birth_year = input("Please Enter Year of Birth: ")
 print(TEST(Birth_year))
 
 
